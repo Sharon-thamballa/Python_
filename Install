@@ -1,0 +1,4 @@
+Install www.anaconda.com
+Open anaconda prompt - it is like a command prompt.
+In anaconda prompt, give command - jupyter notebook
+Go to anaconda Navigator, you will redirect to a new browser. In that Under new option, click on Notebook.
